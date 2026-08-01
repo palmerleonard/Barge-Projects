@@ -1,4 +1,4 @@
-# Barge Projects
+# Barge Reports
 
 ## Overview
 
@@ -6,7 +6,7 @@ This repository contains three reports that I either **developed or enhanced** d
 
 The reports shown in this repository are not complete versions due to the confidentiality of certain company and financial information.
 
-## Projects
+## Reports
 
 The reports included in this repository:
 
