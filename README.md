@@ -10,8 +10,8 @@ The reports shown in this repository are not complete versions due to the **conf
 
 The reports included in this repository:
 
-* Billable Rate Power BI Report
+* Billable Rate Power BI Report (Employee Utilization)
 * Monthly overview of Days Sales Outstanding (DSO) in Excel
-* Revenue Power BI Report with state and project azure data
+* Revenue Power BI Report with state and project data from an Azure database
 
 > **Note:** Certain data, visuals, and report components have been removed or modified to protect confidential information.
