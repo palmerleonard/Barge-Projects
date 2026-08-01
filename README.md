@@ -10,8 +10,8 @@ The reports shown in this repository are not complete versions due to the **conf
 
 The reports included in this repository:
 
-* Billable Rate Power BI Dashboard
-* Monthly overview of DSO in Excel
-* Revenue report with state and project data
+* Billable Rate Power BI Report
+* Monthly overview of Days of Sales Outstanding in Excel
+* Revenue Power BI Report with state and project data
 
 > **Note:** Certain data, visuals, and report components have been removed or modified to protect confidential information.
