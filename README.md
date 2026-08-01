@@ -8,7 +8,7 @@ The reports shown in this repository are not complete versions due to the **conf
 
 ## Projects
 
-The reports included in this repository demonstrate my experience with:
+The reports included in this repository:
 
 * Billable Rate Power BI Dashboard
 * Monthly overview of DSO in Excel
